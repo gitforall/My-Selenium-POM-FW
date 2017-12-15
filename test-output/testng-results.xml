@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77030" started-at="2017-11-22T05:04:23Z" finished-at="2017-11-22T05:05:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77030" started-at="2017-11-22T05:04:23Z" finished-at="2017-11-22T05:05:40Z">
+      <class name="testCase.LoginTest">
+        <test-method status="PASS" signature="Setup()[pri:0, instance:testCase.LoginTest@6fd02e5]" name="Setup" is-config="true" duration-ms="19445" started-at="2017-11-22T10:34:23Z" finished-at="2017-11-22T10:34:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="12468" started-at="2017-11-22T10:34:43Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:34:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="7830" started-at="2017-11-22T10:34:56Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="7300" started-at="2017-11-22T10:35:04Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="6739" started-at="2017-11-22T10:35:11Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="7475" started-at="2017-11-22T10:35:18Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="8016" started-at="2017-11-22T10:35:25Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+        <test-method status="PASS" signature="suceslogin(java.lang.String, java.lang.String)[pri:0, instance:testCase.LoginTest@6fd02e5]" name="suceslogin" duration-ms="7020" started-at="2017-11-22T10:35:33Z" data-provider="LoginFunctionality" finished-at="2017-11-22T10:35:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haris]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[p@ssw0rd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suceslogin -->
+      </class> <!-- testCase.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

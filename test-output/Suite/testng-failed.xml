@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.ExtentReports.ExtentReportsClass">
+        <methods>
+          <include name="getResult"/>
+          <include name="startReport"/>
+          <include name="skipTest"/>
+          <include name="endReport"/>
+          <include name="failTest"/>
+        </methods>
+      </class> <!-- com.ExtentReports.ExtentReportsClass -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

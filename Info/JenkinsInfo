@@ -1,0 +1,8 @@
+Uname : jenkins
+Pwd:    p@ssw0rd
+
+Run jenkins : java -Dhudson.model.DirectoryBrowserSupport.CSP="" -jar jenkins.war
+
+https://wiki.jenkins-ci.org/display/JENKINS/DocLinks+Plugin
+https://wiki.jenkins-ci.org/display/JENKINS/Doxygen+Plugin
+https://wiki.jenkins-ci.org/display/JENKINS/Cucumber+Reports+Plugin

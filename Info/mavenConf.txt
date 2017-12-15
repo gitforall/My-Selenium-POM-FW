@@ -1,0 +1,13 @@
+Step 1 : Right Click on Eclipse project Properties
+
+Step 2 : Java Build Path -> Libraries
+
+Step 3 : Select JRE System Library -> Click Edit button -> Click Installed JREs... button
+
+Step 4 : Edit JRE and as Set JRE Home = JAVA_HOME /  give jdk home dir path
+
+*********************************************************************************
+
+config extent reports 
+
+http://www.tothenew.com/blog/how-to-use-extentreport-in-a-framework-2/
